@@ -2,6 +2,20 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.13.
 
+## Pra rodar o projeto
+
+```bash
+npm install
+```
+
+## Se não tiver o Angular CLI (ng...)
+
+```bash
+npm install -g @angular/cli
+```
+isso instala o anfular CLI globalmente, no computador todo
+
+
 ## Development server
 
 To start a local development server, run:
